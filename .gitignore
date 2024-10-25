@@ -1,0 +1,18 @@
+﻿# Applications
+*.app
+*.exe
+*.war
+
+# binaries
+bin
+
+# Folders
+/.vs/
+/CodingTest/bin/
+/CodingTest/obj/
+
+/CodingChallenge.Tests/bin/
+/CodingChallenge.Tests/obj/
+
+/CodingTestServices/bin/
+/CodingTestServices/obj/
